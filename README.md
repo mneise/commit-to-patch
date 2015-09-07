@@ -1,8 +1,6 @@
 # contrib-patch
 
-Download all your contributions to a GitHub project as patches.
-
-# Uses
+Download all your contributions to a GitHub project as patches using the GitHub API.
 
 You can pass the following options to the library:
 
